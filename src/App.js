@@ -5,7 +5,7 @@ import Header from './Header';
 function App() {
   return (
    <>
-    <Header title="Nav Bar" searchBar={false}></Header>
+    <Header title="Home" searchBar={false}></Header>
     <br /><br /><br /><br /><br />
  
    </>
